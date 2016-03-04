@@ -1,1 +1,1 @@
-# Relocate2: keep consistent with script_dev
+# RelocaTE2: a high resolution mapping tool for transposable elements polymorphisms in large population data
